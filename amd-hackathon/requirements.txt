@@ -1,0 +1,25 @@
+kaggle
+kagglehub
+agent-framework-devui --pre
+jupyter-server-proxy
+agent-framework
+agentscope
+openai
+pycloudflared
+vllm
+asyncio
+semantic-kernel
+pandas
+pydantic
+fastapi
+uvicorn
+aiofiles
+python-multipart
+fastapi
+opencv-python
+ultralytics
+dataclasses
+workflows
+yt-dlp
+streamlit
+streamlit-autorefresh
